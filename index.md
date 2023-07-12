@@ -7,7 +7,7 @@ hero:
   text: "Training Page for Cloud Computing Course"
   tagline: My great project tagline
   actions:
-    - theme: brand
+    - theme: brands
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
